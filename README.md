@@ -2,6 +2,10 @@
 
 ```bash
 pip install -r requirements.txt
+```
+## Add neccessary details in the scripts such as API Keys
 
-## Run the App
-```bash run.sh```
+## Run the app
+```
+bash run.sh
+```
