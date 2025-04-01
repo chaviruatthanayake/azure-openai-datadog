@@ -9,3 +9,6 @@ pip install -r requirements.txt
 ```
 bash run.sh
 ```
+If this successfully executes,
+Go to Traces in APM > Services in Datadog console,
+Search for the tag azure-openai-app
